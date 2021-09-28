@@ -1,0 +1,4 @@
+index, start_date, end_date, elut_file
+0, 2020-02-14T00:00:00, 2021-01-01T00:00:00, elut_table_20200519.csv
+1, 2021-01-01T00:00:00, 2021-05-24T00:00:00, elut_table_20201204.csv
+2, 2021-05-24T00:00:00, none, elut_table_20210625.csv
