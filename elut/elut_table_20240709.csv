@@ -1,5 +1,5 @@
-Created from ELUT#13_ECC_para_2890_2892.fits at 2024-07-09 10:48:18.303713
- Channel energy edges obtained from elut_creator.py
+Created from ELUT#13_ECC_para_2890_2892.fits at 2024-07-09 10:48:18.303713,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Channel energy edges obtained from elut_creator.py,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Offset (ADC),Gain (ADC/keV),Pixel,Detector,ADC Edge #0 - 4 keV,ADC Edge #1 - 5 keV,ADC Edge #2 - 6 keV,ADC Edge #3 - 7 keV,ADC Edge #4 - 8 keV,ADC Edge #5 - 9 keV,ADC Edge #6 - 10 keV,ADC Edge #7 - 11 keV,ADC Edge #8 - 12 keV,ADC Edge #9 - 13 keV,ADC Edge #10 - 14 keV,ADC Edge #11 - 15 keV,ADC Edge #12 - 16 keV,ADC Edge #13 - 18 keV,ADC Edge #14 - 20 keV,ADC Edge #15 - 22 keV,ADC Edge #16 - 25 keV,ADC Edge #17 - 28 keV,ADC Edge #18 - 32 keV,ADC Edge #19 - 36 keV,ADC Edge #20 - 40 keV,ADC Edge #21 - 45 keV,ADC Edge #22 - 50 keV,ADC Edge #23 - 56 keV,ADC Edge #24 - 63 keV,ADC Edge #25 - 70 keV,ADC Edge #26 - 76 keV,ADC Edge #27 - 84 keV,ADC Edge #28 - 100 keV,ADC Edge #29 - 120 keV,ADC Edge #30 - 150 keV
 897.7777709960938,0.11056511496936824,0,0,934,943,952,961,970,979,988,997,1006,1015,1024,1033,1042,1061,1079,1097,1124,1151,1187,1223,1260,1305,1350,1404,1468,1531,1585,1658,1802,1983,2254
 899.25927734375,0.11056511496936824,1,0,935,944,954,963,972,981,990,999,1008,1017,1026,1035,1044,1062,1080,1098,1125,1153,1189,1225,1261,1306,1351,1406,1469,1532,1587,1659,1804,1985,2256
